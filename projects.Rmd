@@ -1,0 +1,25 @@
+---
+title: "Projects"
+output: html_document
+---
+
+## Selected Projects
+
+<div class="project-card">
+  <h3>BMW Used Car Market Dashboard</h3>
+  <p>This project uses interactive visualizations to explore how mileage and fuel type relate to the resale prices of used BMW vehicles. It was designed for a general audience and focuses on clear and accessible visual storytelling.</p>
+  <p><a href="https://github.com/yezifan911-hash/bmw-dashboard" target="_blank">View GitHub Repository</a></p>
+</div>
+
+<div class="project-card">
+  <h3>Malawi Food Security and Nutrition Analysis</h3>
+  <p>This project examines food security and nutrition outcomes in southern Malawi using survey data from vulnerable households affected by climate-related shocks. It focuses on practical public health questions related to nutrition support and household resilience.</p>
+
+  <p>
+    <a href="https://raw.githubusercontent.com/yezifan911-hash/personal-website/main/images/project2.png" target="_blank">
+      <img src="https://raw.githubusercontent.com/yezifan911-hash/personal-website/main/images/project2.png" alt="Project 2 preview" width="350">
+    </a>
+  </p>
+
+  <p><a href="https://raw.githubusercontent.com/yezifan911-hash/personal-website/main/images/project2.png" target="_blank">View Full-Size Project Figure</a></p>
+</div>

@@ -1,0 +1,25 @@
+---
+title: "Home"
+output: html_document
+---
+
+<div class="intro-box">
+
+# Zifan Ye
+
+MPH student in Epidemiology at Emory Rollins School of Public Health with interests in public health research, data analysis, and health communication.
+
+This website highlights my academic background, selected graduate-level projects, and professional materials.
+
+</div>
+
+## About Me
+
+I am interested in epidemiology, public health, and data visualization. My work focuses on using data to answer applied health questions and communicate findings clearly to different audiences.
+
+## Current Interests
+
+- Epidemiology and public health
+- Data visualization and reproducible research
+- Health outcomes and program evaluation
+- Clinical and population health research

@@ -1,0 +1,22 @@
+name: "personal-website"
+output_dir: "docs"
+
+navbar:
+  title: "Zifan Ye"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "CV"
+      href: cv.html
+    - text: "Projects"
+      href: projects.html
+  right:
+    - icon: fa-github
+      href: https://github.com/yezifan911-hash
+    - icon: fa-linkedin
+      href: https://www.linkedin.com/
+
+output:
+  html_document:
+    theme: cosmo
+    css: styles.css
